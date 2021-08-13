@@ -1,5 +1,6 @@
 <font size="10"> Passionate about Data Analytics, Data Science ML/AI, Entirely self taught</Ariel>
-<font size="10"> Proficient in MS Excel, Python, R, Power BI </Ariel>
+
+<font size="10"> Proficient in SQL, MS Excel, Python, R, Power BI </Ariel>
 
  Reach me ...roypawan358@gmail.com
 
